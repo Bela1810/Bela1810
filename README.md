@@ -60,7 +60,7 @@ Focused on transforming data into valuable insights through analytics, machine l
 
 ## 🛠 Collaboration Tools
 
-[![GitHub](https://img.shields.io/badge/GitHub%20-121013?logo=github&logoColor=white)](#
+[![GitHub](https://img.shields.io/badge/GitHub%20-121013?logo=github&logoColor=white)](#)
 [![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
